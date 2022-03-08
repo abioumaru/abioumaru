@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  font-family: Monaco, "Courier New", "monospace";
+  background-color: #3E3E3E;
+  letter-spacing: 3px;
+	
+
+}
+
+#page {
+  background-color: #F7F7F7;
+  max-width: 1350px;
+  min-width: 1080px;
+  min-height: 1600px;
+  margin: 0px auto 0px auto;
+  padding: 0;
+height: 100%;
+	display: table;
+}
+#name, #footer {
+  width: 1350px;
+  letter-spacing: 15px;
+  font-family: Roboto, "Saspoor Bold", "Segoe Print", "monospace";
+  align-content: center;
+  margin: 0px auto 30px auto;
+  text-align: center;
+}
+#navbox {
+  position: fixed;
+  top: 0px;
+  background-color: #000000;
+  width: 1350px;
+	
+}
+#navigation {
+  margin: 10px auto 10px auto;
+  text-align: center;
+
+}
+li {
+  display: inline;
+}
+a {
+  letter-spacing: 5px;
+  padding: 5px 20px 2px 20px;
+  text-transform: uppercase;
+  color: #FFD31C;
+  text-decoration: none;
+}
+a:hover {
+  color: #F0FFF0;
+}
+p {
+  padding: 40px 30px 40px 30px;
+}
+#illus, #desi {
+  font-size: 15px;
+  margin: auto;
+  text-align: center;
+}
+#illustrations, #Design {
+  text-align: center;
+  width: 1120px;
+  margin: 0px auto 0px auto;
+}
+img {
+  margin: 30px 20px 30px 20px;
+  width: auto;
+  height: 350px;
+  border: 2px solid #9E9E9E;
+}
+#manga1title, p {
+  padding: 0px auto 0px auto;
+  text-align: center;
+  margin-top: 100px;
+}
+#manga1 {
+  text-align: center;
+margin-bottom: 200px;
+}
+
+iframe[seamless] { 
+
+ display: block;
+
+}
+#me {
+  margin: 10px 30px 100px 100px;
+}
+#about {
+  width: 700px;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+#illustrations, #Design{
+	margin: 50px auto 10px auto;
+}
+
+#bottom {
+	margin-bottom: 200px;
+}
+
+#footer {
+	width: auto;
+	height: 800px;
+	
+	color: white;	
+  	text-align: center;
+}
+
+#foot {
+	margin: 300px auto 20px auto;
+	margin-bottom: 25px;
+}
+
+#emailbox {
+	margin-top: 15px;
+}
